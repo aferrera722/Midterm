@@ -1,2 +1,1 @@
-# Midterm
-mmp 200
+mmp200
